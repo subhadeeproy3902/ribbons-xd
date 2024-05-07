@@ -1,0 +1,108 @@
+Uri: https://assets-global.website-files.com/6453bf13e270828d8465254c/646df25163dae48be1b6503c_sound_lottie.json
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\6453bf13e270828d8465254c\646df25163dae48be1b6503c_sound_lottie.json
+Content Type: application/json
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/654911c9b4ac584a231e079d_checkbox-mark.svg
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\654911c9b4ac584a231e079d_checkbox-mark.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover-p-1080.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover-p-1600.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover-p-2000.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover-p-2600.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover-p-500.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover-p-800.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/65525e249e879986239c9e66_video-cover.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\65525e249e879986239c9e66_video-cover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/6565deca12a61fd721d54c02_image_part_002.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\6565deca12a61fd721d54c02_image_part_002.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/6565deca6fc3d4e429f1adba_image_part_001.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\6565deca6fc3d4e429f1adba_image_part_001.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/6565decaf14b992d8ba9153c_image_part_003.webp
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\6565decaf14b992d8ba9153c_image_part_003.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/6570cb410cae459f16698af8_6453bf14e270824d606525c3_favicon.png
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\6570cb410cae459f16698af8_6453bf14e270824d606525c3_favicon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/6570cb451aec4ce9433d7863_6453bf14e270822ed46525c4_webclip.png
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\6570cb451aec4ce9433d7863_6453bf14e270822ed46525c4_webclip.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/css/refokus-mentoring.41868789d.min.css
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\css\refokus-mentoring.41868789d.min.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/654501f325ec4a0c3d61550b/js/refokus-mentoring.08776bff6.js
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\js\refokus-mentoring.08776bff6.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/6453bf13e270828d8465254c/647748953308d393b12c011f_video-poster.png
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\6453bf13e270828d8465254c\647748953308d393b12c011f_video-poster.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/654501f325ec4a0c3d61550b/654907c1bae85f98c2bdee16_Satoshi-Variable.ttf
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\654501f325ec4a0c3d61550b\654907c1bae85f98c2bdee16_Satoshi-Variable.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.refokus.com/mentoring/bg-audio.mp3
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\mentoring\bg-audio.mp3
+Content Type: audio/mpeg
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=654501f325ec4a0c3d61550b
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://refokus-mentoring-gsap.vercel.app/main.js
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\main.js
+Content Type: application/javascript
+
+Uri: https://refokus-mentoring-r3f.vercel.app/assets/index.js
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\assets\index.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\@lottiefiles\lottie-player@1.5.7\dist\lottie-player.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-KVCC5E8807
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.timetorefokus.com/
+File Name: C:\Downloaded Web Sites\www.timetorefokus.com\index.htm
+Content Type: text/html
+
